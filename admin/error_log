@@ -1,0 +1,97 @@
+[01-Jan-2019 22:49:31 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 8
+[01-Jan-2019 22:51:27 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 8
+[01-Jan-2019 22:51:27 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[01-Jan-2019 22:51:29 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 8
+[01-Jan-2019 22:51:31 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 8
+[01-Jan-2019 22:51:41 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 8
+[01-Jan-2019 22:51:49 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 8
+[01-Jan-2019 22:51:57 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 8
+[01-Jan-2019 22:51:57 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[01-Jan-2019 22:52:10 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 8
+[01-Jan-2019 22:52:10 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[01-Jan-2019 22:52:12 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 8
+[01-Jan-2019 23:26:39 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[01-Jan-2019 23:26:52 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[01-Jan-2019 23:27:00 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[02-Jan-2019 08:58:33 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[02-Jan-2019 09:00:30 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[02-Jan-2019 09:02:23 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[02-Jan-2019 09:02:55 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[02-Jan-2019 09:50:50 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[02-Jan-2019 09:51:04 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[02-Jan-2019 09:59:45 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[02-Jan-2019 09:59:59 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[02-Jan-2019 10:08:44 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[02-Jan-2019 10:10:43 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:09:30 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:09:40 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:09:48 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:14:32 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:15:29 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:15:44 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:24:30 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:24:37 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:24:45 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:30:29 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:30:37 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:30:45 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:30:53 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:36:29 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:36:43 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:36:50 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:36:59 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:43:50 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:45:36 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:47:03 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:47:26 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:50:48 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:50:57 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:51:06 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:51:14 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:57:05 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:57:16 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 22:57:24 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 23:05:06 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 23:05:14 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 23:05:27 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 23:05:36 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 23:06:18 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 23:06:56 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 23:07:04 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 23:07:24 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 23:16:03 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 23:16:13 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 23:16:21 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 23:21:38 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 23:21:47 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 23:21:54 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 23:22:01 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 23:24:40 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 23:24:47 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 23:24:53 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 23:29:30 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 23:35:21 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 23:35:29 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 23:35:35 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 23:40:56 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 23:41:03 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[03-Jan-2019 23:41:10 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[04-Jan-2019 11:01:55 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[04-Jan-2019 11:02:09 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[04-Jan-2019 11:02:19 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[04-Jan-2019 11:07:11 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[04-Jan-2019 11:07:19 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[04-Jan-2019 11:07:28 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[04-Jan-2019 11:15:04 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[04-Jan-2019 11:15:31 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[04-Jan-2019 11:15:39 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[04-Jan-2019 11:15:47 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[04-Jan-2019 11:25:27 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[04-Jan-2019 11:25:48 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[04-Jan-2019 11:25:56 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[04-Jan-2019 11:26:08 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[04-Jan-2019 11:26:16 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[04-Jan-2019 11:32:07 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[04-Jan-2019 11:32:47 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[04-Jan-2019 11:33:49 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
+[04-Jan-2019 11:33:58 Asia/Jakarta] PHP Strict Standards:  Only variables should be passed by reference in /home/tutg6262/public_html/aminskripsi/admin/pages/editwisata.php on line 173
